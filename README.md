@@ -1,14 +1,19 @@
 ## Introduction
 
+In this assignment, our goal is to match the sample files seen in the forked intro, below. 
+To do so, we will create four separate R code files and four separate plot files for a total of eight files. 
+
+## Source Material
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
 datasets. In particular, we will be using the "Individual household
 electric power consumption Data Set" which I have made available on
-the course web site:
+the course web site. Please note that this is a large chunk of data. See "Loading the Data" below for more information.
 
 
-* <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
+* <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb] 
 
 * <b>Description</b>: Measurements of electric power consumption in
 one household with a one-minute sampling rate over a period of almost
