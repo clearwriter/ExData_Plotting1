@@ -3,10 +3,6 @@
 In this assignment, our goal is to match the sample files seen in the forked intro, below. 
 To do so, we will create four separate R code files and four separate plot files for a total of eight files. 
 
-## New
-
-I just added a section.
-
 ## Source Material
 
 This assignment uses data from
